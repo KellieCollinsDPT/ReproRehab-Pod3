@@ -9,7 +9,7 @@ Welcome Pod 3! We have created a GitHub repository as a centralized location to 
 **Step 2**: Download and install `git` on your computer [here](https://git-scm.com/downloads)<br>
 **Step 3**: Clone this repository locally to your computer by following instructions [here](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Git%20and%20GitHub/Github%20integration%20in%20Rstudio%20-%20How%20to%20download%20the%20repo%20into%20Rstudio%20and%20keep%20it%20updated%20on%20your%20local%20machine..pdf) <br>
 
-You will now be able to access all the code and materials and follow along each week.<br><br>
+You will now be able to access all the code and materials and follow along each week.<br>
 Live session recordings can be found here: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLX8sMF8_Ee24&si=gzmmFhblVSvyOmHL)
 
 # Overview of the Course
