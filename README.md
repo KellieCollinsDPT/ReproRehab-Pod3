@@ -55,7 +55,7 @@ We have now covered the basics on all things R that are necessary for reproducib
 ### [Intro to Git & GitHub](https://github.com/rinivarg/ReproRehab2024-Pod3/tree/main/Git%20and%20GitHub):
 You've probably heard by now about GitHub for sharing your code and data, but it's much more than that! In fact, Git (the software that the GitHub platform uses) is first and foremost a version-control tool. Through that very function, it allows you to travel in time on some version of your own code *and* collaborate with others on the same code without needing to have a million versions (e.g., code_FINAL_RV, code_FINAL_RV_AH, code_FINALFINAL_AH_RV_RV2024... lol, you get the gist). <br> 
 
-### [Codebooks and Cloud Computing](https://github.com/rinivarg/ReproRehab2024-Pod3/tree/main/Materials/Week%206):
+### [Codebooks and Cloud Computing](https://github.com/rinivarg/ReproRehab2024-Pod3/tree/main/Codebooks%20and%Cloud%20Computing):
 You now have the makings of a working analytical pipeline that fits your data and your research question. One day you will want to share it with the world! In this lesson we will present different methods for sharing your code either a vignette or notebook that makes your work accessible to a variety of audiences.
 
 ****
